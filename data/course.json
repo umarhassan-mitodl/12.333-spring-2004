@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "legacy_uid": "0ac9b6d8-3e85-3dd6-d856-2185fee361c6",
+  "instructors": {
+    "content": [
+      "cfb0fc40-0904-3f51-2445-f0f13d3ebab6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fe6bc893-da2d-d6d4-99c6-76b6c749c8b8",
+    "website": "12-333-atmospheric-and-ocean-circulations-spring-2004"
+  },
+  "course_title": "Atmospheric and Ocean Circulations",
+  "course_description": "In this course, we will look at many important aspects of the circulation of the atmosphere and ocean, from length scales of meters to thousands of km and time scales ranging from seconds to years. We will assume familiarity with concepts covered in course\u00a012.003 (Physics of the Fluid Earth). In the early stages of the present course, we will make somewhat greater use of math than did 12.003, but the math we will use is no more than that encountered in elementary electromagnetic field theory, for example. The focus of the course is on the **physics** of the phenomena which we will discuss.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.333",
+  "course_image_thumbnail": {
+    "content": "03f40e01-703a-d62f-90d0-df49bdc85d08",
+    "website": "12-333-atmospheric-and-ocean-circulations-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "9fdeae37-6a70-4dce-9718-d2ae41176deb",
+  "site_short_id": "12.333-spring-2004",
+  "site_url_path": "courses/12-333-atmospheric-and-ocean-circulations-spring-2004",
+  "title": "Course Metadata"
+}
