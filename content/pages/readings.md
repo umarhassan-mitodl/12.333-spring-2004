@@ -129,7 +129,7 @@ Philander, S. G. *El Nino, La Nina and the Southern Oscillation*. San Diego, CA:
 
 An interesting series of articles on the large 1982-83 El Nino was published in Science on 16 Dec 1983. For discussion of the ocean and atmosphere, see the articles by Cane and by Rasmusson and Wallace.
 
-Information about past and current behavior can be found on many Web sites, such as [NONA El Niño Page](http://www.elnino.noaa.gov/) (from which some of the figures shown here were obtained; this site also has pointers to many others).
+Information about past and current behavior can be found on many Web sites, such as {{% resource_link "052ced3d-1a46-42aa-84dc-ab21a36a7d05" "NONA El Niño Page" %}} (from which some of the figures shown here were obtained; this site also has pointers to many others).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21-22
